@@ -2,7 +2,7 @@
 
 An intelligent, multi-modal journey planner for Chennai, supporting Bus, Metro, and Suburban Rail. This application leverages real-world GTFS (General Transit Feed Specification) data and AI to provide the fastest and most accurate transit routes across the city.
 
-![App Dashboard](docs/demo_dashboard.png)
+![App Dashboard](Docs/demo_dashboard.png)
 
 ## ✨ Features
 
