@@ -16,15 +16,15 @@ An intelligent, multi-modal journey planner for Chennai, supporting Bus, Metro, 
 
 ### 1. Search & Discovery
 Users can easily search for origin and destination stops with a responsive autocomplete system.
-![Search Interface](docs/demo_search.png)
+![Search Interface](Docs/demo_search.png)
 
 ### 2. Intelligent Suggestions
 The system provides the best route options, displaying clear transfer points and total duration.
-![Journey Results](docs/demo_results.png)
+![Journey Results](Docs/demo_results.png)
 
 ### 3. Seamless Experience
 From searching to calculating the best route, the app provides a smooth, intuitive flow.
-![Calculation Process](docs/demo_calculating.png)
+![Calculation Process](Docs/demo_calculating.png)
 
 ## 🛠️ Technical Stack
 
