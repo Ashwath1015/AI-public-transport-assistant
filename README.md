@@ -72,6 +72,3 @@ The system uses a decoupled architecture:
 - **FastAPI** $\rightarrow$ queries **PostGIS** for spatial stops and **GTFS** for schedules.
 - **Routing Engine** $\rightarrow$ computes the optimal path using a time-expanded graph.
 - **AI Layer** $\rightarrow$ handles natural language intent extraction.
-
-## 📄 License
-This project is licensed under the MIT License.
